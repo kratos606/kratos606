@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mateusz, a full-time software engineer 👨‍💻 living in Poland 🚀</div>  
+### <div align="center">I'm Yassir, a full-time software engineer 👨‍💻 living in Meknes, Morocco 🚀</div>  
   
 
 - 🌱 As always I'm working on becoming better version of myself 

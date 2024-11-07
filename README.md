@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/kratos606/kratos606/blob/main/22657b8a577f858827c5d46dac32cf53.gif" align="center" height="" width="600" />
+  <img src="https://github.com/kratos606/kratos606/blob/main/giphy.webp" align="center" height="" width="600" />
 </div>
 
 ### <div align="center">I'm Yassir Benmoussa, a Full-Stack Software Engineer 👨‍💻 from Meknes, Morocco 🚀</div>  

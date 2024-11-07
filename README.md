@@ -112,14 +112,6 @@
 
 <br/>
 
-## 🏢 Experience
-
-### RADEM | Internship | 05/2022 - 06/2022
-- Developed a functional website for managing schedules, including handling modifications and administrative user management.
-- Designed a secure, aesthetically pleasing, and user-friendly interface compatible with all devices.
-
-<br/>
-
 ## 🧠 Currently Learning
 - **Machine Learning:** Deepening knowledge in PyTorch and TensorFlow
 - **Computer Vision:** Exploring advanced image processing techniques

@@ -1,5 +1,5 @@
 <div align="center">
-  <iframe src="https://giphy.com/embed/YbXLZ6dymH758xSEbM" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/YbXLZ6dymH758xSEbM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM">via GIPHY</a></p>
 </div>  
 
 ### <div align="center">I'm Yassir Benmoussa, a Full-Stack Software Engineer 👨‍💻 from Meknes, Morocco 🚀</div>  

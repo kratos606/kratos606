@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8d05fa5c-681a-4af5-9cbe-47fa31bed179" align="center" height="" width="600" />
+  <video src="https://github.com/user-attachments/assets/8d05fa5c-681a-4af5-9cbe-47fa31bed179" align="center" height="" width="600" />
 </div>
 
 ### <div align="center">I'm Yassir Benmoussa, a Full-Stack Software Engineer 👨‍💻 from Meknes, Morocco 🚀</div>  

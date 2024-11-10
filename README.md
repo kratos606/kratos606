@@ -87,25 +87,25 @@
 
 ## 💼 Projects
 
-### [CodeKombat – Full-Stack Coding Challenge Platform](https://github.com/yourusername/codekombat) | [Demo](https://codekombat-demo.com)
+### [CodeKombat – Full-Stack Coding Challenge Platform](https://github.com/yourusername/codekombat) | [Demo](https://codekombat.ddns.net/)
 - Developed a comprehensive coding practice platform inspired by LeetCode and HackerRank.
 - Implemented a real-time collaborative code editor with automatic test case validation.
 - Backend built with Node.js, Express.js, and MongoDB.
 - Utilized Docker for secure and isolated code execution.
 - Integrated multiple authentication strategies including JWT and OAuth.
 
-### [TikTak – Short Video Sharing App](https://github.com/yourusername/tiktak) | [Demo](https://tiktak-demo.com)
+### [TikTak – Short Video Sharing App](https://github.com/yourusername/tiktak)
 - Created a TikTok-inspired application for sharing short videos.
 - Backend developed using Django and MySQL, with video storage on AWS S3 and CloudFront.
 - Frontend built with React Native and Expo for cross-platform compatibility.
 - Features include video uploads, likes, comments, and user follow functionality.
 
-### [Portal – 3D Web Game](https://github.com/yourusername/portal-game) | [Demo](https://portal-game-demo.com)
+### [Portal – 3D Web Game](https://github.com/yourusername/portal-game) | [Demo](https://kratos606.github.io/portal/)
 - Designed a 3D game inspired by the Portal series using Three.js and Cannon.js.
 - Developed complex physics simulations to replicate teleportation mechanics.
 - Integrated advanced rendering techniques for realistic portal effects.
 
-### [Chessboard Recognizer – AI-Powered Chess Analysis Tool](https://github.com/yourusername/chessboard-recognizer) | [Demo](https://chessboard-recognizer-demo.com)
+### [Chessboard Recognizer – AI-Powered Chess Analysis Tool](https://github.com/yourusername/chessboard-recognizer) | [Demo](https://huggingface.co/spaces/salominavina/chessboard-recognizer)
 - Built an AI tool to recognize and analyze chess positions from images.
 - Implemented a convolutional neural network for accurate piece classification.
 - Utilized OpenCV for image processing and PyTorch for model training.

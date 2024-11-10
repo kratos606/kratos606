@@ -2,6 +2,8 @@
   <img src="https://github.com/kratos606/kratos606/blob/main/giphy.webp" align="center" height="" width="600" />
 </div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x0-xFqvJ-U8?si=OpaXMr2QTSIAr69d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### <div align="center">I'm Yassir Benmoussa, a Full-Stack Software Engineer 👨‍💻 from Meknes, Morocco 🚀</div>  
 
 - 📫 **Contact:** [yassirbenmoussa357@gmail.com](mailto:yassirbenmoussa357@gmail.com) | +212 619-334695

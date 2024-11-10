@@ -2,10 +2,6 @@
   <img src="https://github.com/kratos606/kratos606/blob/main/giphy.webp" align="center" height="" width="600" />
 </div>
 
-<div style="display:none">
-  <video src="theme.mp3" />
-</div>
-
 ### <div align="center">I'm Yassir Benmoussa, a Full-Stack Software Engineer 👨‍💻 from Meknes, Morocco 🚀</div>  
 
 - 📫 **Contact:** [yassirbenmoussa357@gmail.com](mailto:yassirbenmoussa357@gmail.com) | +212 619-334695

@@ -8,7 +8,7 @@
 - 🌱 Continuously enhancing my skills and knowledge in software development
 - ❓ Open to answering questions related to software engineering, development, and technologies
 - ⚡ **Fun Fact:** I've never touched the grass
-- 🧠 Currently learning Python and exploring various other technologies
+- 🧠 Currently learning Rust and exploring various other technologies
 
 <br/>
 
